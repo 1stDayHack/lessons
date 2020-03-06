@@ -1,2 +1,2 @@
-# lessons
-Materials for lessons and workshops
+# Workshop Materials for 1stDayHack
+Imma update this later.
